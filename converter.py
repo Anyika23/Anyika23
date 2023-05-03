@@ -1,6 +1,7 @@
+#MP3 converter project using python and moviepy from pip
 import tkinter
 import tkinter as Tk
-import customtkinter
+import customtkinter #customtokinter for modern GUIs
 from tkinter import filedialog as fp
 from tkinter.ttk import *
 import moviepy.editor as mp
@@ -13,6 +14,7 @@ root.title("Mp3 Converter")
 
 
 def Add_Files():
+	#engage filefialog to browse files
 
 	file = fp.askopenfile(mode='r', filetypes=[('Video Files', '.mp4')])
 	if file:
