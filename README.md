@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Python is my best language and the preferred one so far i find it easy to learn and understand
+A few starter projects in my repos
+
 
 Hey Anyika here an aspiring DevOps student. I’m currently working on RESTFUL API in JavaScript
 Web development and understanding JSON in JavaScript is a discussion am very much ready for
